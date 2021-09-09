@@ -1,10 +1,8 @@
 # The International Scattering Alliance
 
-The Alliance is established to support community activities in the area of scattering including, but not limited to, neutron scattering, x-ray scattering and light scattering. 
+The International Scattering Alliance is a not-for-profit association that helps organisations (official and unofficial) to serve the community using X-ray, neutron and light scattering methods with information and software. It can, for example, hold electronic assets such as domain names and mail lists. Please e-mail us if you want to find out more or would like to become a member. 
 
 For more information please contact one of the current board members of the Alliance:
 * [Andrew Jackson (ESS)](mailto:andrew.jackson@ess.eu)
 * [Adrian Rennie (Uppsala University)](mailto:Adrian.Rennie@physics.uu.se)
 * [Brian Maranville (NIST)](mailto:brian.maranville@nist.gov)
-
-If you wish to join the Alliance, please send an email request to one of the board members above.
