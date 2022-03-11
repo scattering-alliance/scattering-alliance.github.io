@@ -4,5 +4,5 @@ The International Scattering Alliance is a not-for-profit association that helps
 
 For more information or to become a member please contact one of the current board members of the Alliance:
 * [Andrew Jackson (ESS)](mailto:andrew.jackson@ess.eu)
-* [Adrian Rennie (Uppsala University)](mailto:Adrian.Rennie@physics.uu.se)
+* [Adrian Rennie (Uppsala University)](mailto:adrian.rennie@kemi.uu.se)
 * [Brian Maranville (NIST)](mailto:brian.maranville@nist.gov)
