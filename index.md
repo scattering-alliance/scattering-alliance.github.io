@@ -8,3 +8,6 @@ For more information or to become a member please contact one of the current boa
 
 # Activities
 * Meetings, including the most recent [Annual General Meeting (2022)](meetings/AGM_2022)
+
+# Documents
+* [Statutes, updated March 2022](documents/Statutes%20of%20The%20International%20Scattering%20Alliance_Rev_March2022.pdf)
